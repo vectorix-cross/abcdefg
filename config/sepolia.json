@@ -1,1 +1,2 @@
 { "note": "refactor(wormhole-bridge): add Wormhole receiver for Solana vault deposits" }
+{ "note": "ci(rwa-oracle): add Wormhole receiver for Solana vault deposits" }
