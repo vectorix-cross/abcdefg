@@ -7,7 +7,7 @@ Maintained by **Vectorix** (`vectorix-cross`) · [vanjasretenovic4@gmail.com](ma
 
 Robinhood Chain is a public, EVM-compatible Layer 2 built for tokenized markets, stablecoins, and on-chain rails. This repo is an independent desk: connect to the network, watch blocks and DEX flow, write Robinhood-style tickets, and run a paper execution bot with hard risk gates.
 
-[![GitHub](https://img.shields.io/badge/github-vectorix--cross-181717?style=for-the-badge&logo=github)](https://github.com/vectorix-cross/abcdefg)
+[![GitHub](https://img.shields.io/badge/github-vectorix--cross-181717?style=for-the-badge&logo=github)](https://github.com/vectorix-cross/robinhood-chain-desk)
 [![License: MIT](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](#stack)
 [![Chain](https://img.shields.io/badge/chain-Robinhood%20L2%204663-000000?style=for-the-badge)](#network)
